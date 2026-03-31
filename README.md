@@ -1,1 +1,1 @@
-Write up ctf Tryhackme 
+Write up CTF Tryhackme 
